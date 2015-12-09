@@ -10,6 +10,8 @@
     font-size: 20px;
     float: left;
     width: 200px;
+    border-radius:10px;
+
 }
 
 #table2
@@ -20,6 +22,7 @@
     font-size:20px;
     float: left;
     width: 200px;
+    border-radius:10px;
 }
 
 #table3
@@ -30,6 +33,7 @@
     font-size:20px;
     float: left;
     width: 200px;
+    border-radius:10px;
 }
 
 #table4
@@ -40,6 +44,7 @@
     font-size:20px;
     float: left;
     width: 200px;
+    border-radius:10px;
 }
 
 #table5
@@ -51,6 +56,7 @@
     float: left;
     width: 200px;
     margin-top:20px;
+    border-radius:10px;
 }
 
 #table6
@@ -62,6 +68,7 @@
     float: left;
     width: 200px;
     margin-top:20px;
+    border-radius:10px;
 }
 
 #table7
@@ -73,6 +80,7 @@
     float: left;
     width: 200px;
     margin-top:20px;
+    border-radius:10px;
 }
 
 #table8
@@ -84,6 +92,7 @@
     float: left;
     width: 200px;
     margin-top:20px;
+    border-radius:10px;
 }
 
 #table9
@@ -95,6 +104,7 @@
     float: left;
     width: 200px;
     margin-top: 20px;
+    border-radius:10px;
 }
 
 #table10
@@ -106,6 +116,7 @@
     float: left;
     width: 200px;
     margin-top:20px;
+    border-radius:10px;
 }
 
 #tabletitle1
