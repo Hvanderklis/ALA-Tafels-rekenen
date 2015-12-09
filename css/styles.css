@@ -1,0 +1,27 @@
+#title
+{
+    text-align: center;
+}
+
+#table1 {
+    margin-left: 80px;
+    background-color: aqua;
+    border: 1px solid black;
+    font-size: 20px;
+}
+
+#table2
+{
+    margin-left: 80px;
+    background-color: indigo;
+    border: 1px solid black;
+    font-size:20px;
+}
+
+#table3
+{
+    margin-left: 80px;
+    background-color: #ff2910;
+    border: 1px solid black;
+    font-size:20px;
+}
