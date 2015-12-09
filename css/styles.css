@@ -50,6 +50,7 @@
     font-size:20px;
     float: left;
     width: 200px;
+    margin-top:20px;
 }
 
 #table6
@@ -60,6 +61,7 @@
     font-size:20px;
     float: left;
     width: 200px;
+    margin-top:20px;
 }
 
 #table7
@@ -70,6 +72,7 @@
     font-size:20px;
     float: left;
     width: 200px;
+    margin-top:20px;
 }
 
 #table8
@@ -80,6 +83,7 @@
     font-size:20px;
     float: left;
     width: 200px;
+    margin-top:20px;
 }
 
 #table9
@@ -102,4 +106,10 @@
     float: left;
     width: 200px;
     margin-top:20px;
+}
+
+#tabletitle1
+{
+    text-align: center;
+    float:left;
 }
