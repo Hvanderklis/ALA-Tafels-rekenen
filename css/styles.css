@@ -21,7 +21,63 @@
 #table3
 {
     margin-left: 80px;
-    background-color: #ff2910;
+    background-color: #16ffa9;
+    border: 1px solid black;
+    font-size:20px;
+}
+
+#table4
+{
+    margin-left: 80px;
+    background-color: #9207ff;
+    border: 1px solid black;
+    font-size:20px;
+}
+
+#table5
+{
+    margin-left: 80px;
+    background-color: #2c7fff;
+    border: 1px solid black;
+    font-size:20px;
+}
+
+#table6
+{
+    margin-left: 80px;
+    background-color: #efff23;
+    border: 1px solid black;
+    font-size:20px;
+}
+
+#table7
+{
+    margin-left: 80px;
+    background-color: #ff60e9;
+    border: 1px solid black;
+    font-size:20px;
+}
+
+#table8
+{
+    margin-left: 80px;
+    background-color: #33a3ff;
+    border: 1px solid black;
+    font-size:20px;
+}
+
+#table9
+{
+    margin-left: 80px;
+    background-color: #c2c8ff;
+    border: 1px solid black;
+    font-size:20px;
+}
+
+#table10
+{
+    margin-left: 80px;
+    background-color: #60ffe4;
     border: 1px solid black;
     font-size:20px;
 }
